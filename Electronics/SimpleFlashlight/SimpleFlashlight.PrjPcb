@@ -157,6 +157,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNQOMRIX
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SimpleFlashlight\Design Rule Check - SimpleFlashlight.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\..\AltiumDesigner17\techdocs.altium.com\*.*
 IncludeSubFolders=1
