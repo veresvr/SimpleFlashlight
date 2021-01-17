@@ -1,2 +1,2 @@
 # SimpleFlashlight
-All 3D files were created by SolidWorks 2016.
+All 3D files were created using SolidWorks 2020.
