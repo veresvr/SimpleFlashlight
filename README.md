@@ -1,7 +1,7 @@
 # Simple Flashlight
 
 This simple DIY project uses 9V battery and synchronous step-down regulator to generate the required voltage.
-<img src="https://github.com/veresvr/SimpleFlashlight/blob/main/previev.png"></img>
+<img src="https://github.com/veresvr/SimpleFlashlight/blob/main/preview.png"></img>
 
 ## Usage
 
