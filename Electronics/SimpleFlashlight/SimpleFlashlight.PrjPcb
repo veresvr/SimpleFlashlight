@@ -43,7 +43,7 @@ ReleaseFolderPath=[OutputPath]
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
-DocumentPath=SimpleFlashlight.SchDoc
+DocumentPath=..\..\Drawings\SimpleFlashlightScheme.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -164,6 +164,10 @@ DocumentUniqueId=
 [SearchPath1]
 Path=..\..\..\..\AltiumDesigner17\techdocs.altium.com\*.*
 IncludeSubFolders=1
+
+[Parameter1]
+Name=Material
+Value=FR4-35/35-1,5 IPC 4101
 
 [Configuration1]
 Name=Sources
@@ -308,7 +312,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Samsung SCX-4300 Series (USB001)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

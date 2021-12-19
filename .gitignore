@@ -23,3 +23,5 @@ BOM.xlsx
 Electronics/BOMforPCB.xlsx
 Electronics/lib/**
 Electronics/SimpleFlashlight/__Previews/*.*
+Electronics/lib/
+Drawings/__Previews/
