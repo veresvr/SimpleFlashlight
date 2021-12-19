@@ -1,7 +1,7 @@
 
 3D/~$*.SLDPRT
 Electronics/SimpleFlashlight/History/*.*
-SimpleFlashlight/Electronics/lib/*.*
+SimpleFlashlight/Electronics/lib/**
 SimpleFlashlight/Electronics/SimpleFlashlight/Project Logs for SimpleFlashlight/*
 Electronics/SimpleFlashlight/__Previews/*
 Electronics/Calculation.txt
