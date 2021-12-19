@@ -13,7 +13,7 @@ Electronics/SimpleFlashlight/Project Logs for SimpleFlashlight/*.LOG
 Electronics/SimpleFlashlight/Project Outputs for SimpleFlashlight/Design Rule Check - SimpleFlashlight.html
 Electronics/SimpleFlashlight/Project Outputs for SimpleFlashlight/Design Rule Check - SimpleFlashlight.drc
 Electronics/SimpleFlashlight/Project Outputs for SimpleFlashlight/Status Report.Txt
-Electronics/SimpleFlashlight/SimpleFlashlight.err
+Electronics/SimpleFlashlight/*.err
 SimpleFlashlight/Electronics/SimpleFlashlight/Project Logs for SimpleFlashlight/
 SimpleFlashlight/Electronics/SimpleFlashlight/__Previews/*
 Assembling manual.docx
@@ -21,3 +21,5 @@ ToDo.txt
 Rendering/*.*
 BOM.xlsx
 Electronics/BOMforPCB.xlsx
+Electronics/lib/*
+Electronics/SimpleFlashlight/__Previews/*
