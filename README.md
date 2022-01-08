@@ -13,3 +13,6 @@ The main assembly consist of several 3D printed parts, a pcb assembly, a switch 
 All electronics components you need for the pcb is described here [BOMforPCB.pdf](https://github.com/veresvr/SimpleFlashlight/tree/main/Electronics/BOMforPCB.pdf "BOM of Altium assembly").
 
 The PCB design was created with Altium Designer 19. All mechanical parts and assemblies were created with SolidWorks 2020.
+
+## Structure
+<img src="https://github.com/veresvr/SimpleFlashlight/blob/main/structure.svg"></img>
